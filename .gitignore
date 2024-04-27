@@ -24,3 +24,8 @@ __pycache__/
 # build/
 # *.egg-info/
 
+# 取消忽略 dataset 文件夹及其内容
+!dataset/
+
+# 取消忽略 notebooks 文件夹及其内容
+!notebooks/
