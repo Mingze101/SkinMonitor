@@ -20,10 +20,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # 忽略打包的文件
-dist/
-build/
-*.egg-info/
+# dist/
+# build/
+# *.egg-info/
 
-# 如果有特定的个人文件也需要忽略，直接列出它们
-# 例如，忽略所有 CSV 文件（如果您不想跟踪它们）
-# *.csv
